@@ -92,7 +92,7 @@ foods
 ## Important considerations
 - You should **not** implement an interactive console program that actually
 creates folders on the host machine.
-- You **should** implement a program that takes the above input (either hard-coded
+- You **should** implement a program that takes the above input line-by-line (either hard-coded
 into your program, or reading it from a file) and produces exactly the output
 shown above.
 - Do **not** use any 3rd party libraries. Make sure all the code is your own.
