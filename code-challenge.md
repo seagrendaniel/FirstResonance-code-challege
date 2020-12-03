@@ -94,7 +94,7 @@ foods
 creates folders on the host machine.
 - You **should** implement a program that takes the above input line-by-line (either hard-coded
 into your program, or reading it from a file) and produces exactly the output
-shown above.
+shown above, while internally maintaining the directory structure.
 - Do **not** use any 3rd party libraries. Make sure all the code is your own.
 - Please include all **necessary instructions** for getting your code to run.
 
