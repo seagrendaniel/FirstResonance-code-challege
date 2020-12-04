@@ -98,6 +98,24 @@ shown above, while internally maintaining the directory structure.
 - Do **not** use any 3rd party libraries. Make sure all the code is your own.
 - Please include all **necessary instructions** for getting your code to run.
 
+## Hint
+This is a way you could structure your program
+
+```javascript
+/* directies.js */
+
+// TODO: Define dirs logic 
+
+dirs.run('CREATE fruits')
+dirs.run('CREATE vegetables')
+dirs.run('CREATE grains')
+dirs.run('CREATE fruits/apples')
+dirs.run('CREATE fruits/apples/fuji')
+dirs.run('LIST')
+
+// TODO: Implement the rest of the commands
+
+```
 
 
 
