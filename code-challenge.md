@@ -102,7 +102,7 @@ shown above, while internally maintaining the directory structure.
 This is a way you could structure your program
 
 ```javascript
-/* directies.js */
+/* directories.js */
 
 // TODO: Define dirs logic 
 
