@@ -91,15 +91,15 @@ foods
 
 ## Important considerations
 - You should **not** implement an interactive console program that actually
-creates folders on the host machine.
-- You **should** implement a program that takes the above input line-by-line (either hard-coded
-into your program, or reading it from a file) and produces exactly the output
+creates folders on the host machine or reads inputs from the command line.
+- You **should** implement a program that takes the above input line-by-line (you can hard-code
+ the inputs into your program) and produces exactly the output
 shown above, while internally maintaining the directory structure.
 - Do **not** use any 3rd party libraries. Make sure all the code is your own.
 - Please include all **necessary instructions** for getting your code to run.
 
 ## Hint
-This is a way you could structure your program
+You can hard-code the inputs to your program in the following way:
 
 ```javascript
 /* directories.js */
