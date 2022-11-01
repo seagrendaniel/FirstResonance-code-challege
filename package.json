@@ -1,0 +1,19 @@
+{
+  "name": "daniel-seagren-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "directories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/4703a3ac18b48a684b3f4c8ae71f9c51.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/4703a3ac18b48a684b3f4c8ae71f9c51"
+  },
+  "homepage": "https://gist.github.com/4703a3ac18b48a684b3f4c8ae71f9c51"
+}
